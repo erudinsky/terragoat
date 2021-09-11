@@ -26,5 +26,4 @@ github_asset_name: "Github Asset Dev"
 
 # Define tags
 tags:
-- phase:testing
-- env:QA
+- app:cochlea
